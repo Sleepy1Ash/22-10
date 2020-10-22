@@ -12,6 +12,7 @@ package Colaboracion;
 public class XD {
     public static void main(String[] args) {
         System.out.println("Hola");
+        System.out.println("Ya conocemos mas cosas");
     }
     
 }
